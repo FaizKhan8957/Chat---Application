@@ -1,6 +1,7 @@
-# Snappy - Chat Application 
-Snappy is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
+# Chat --- Application
+Chat --- Application is a real-time messaging app built using the powerful MERN Stack (MongoDB, Express.js, React.js, Node.js).
 
+GitHub Repository: https://github.com/FaizKhan8957/Chat---Application
 
 ![login page](./images/snappy_login.png)
 
